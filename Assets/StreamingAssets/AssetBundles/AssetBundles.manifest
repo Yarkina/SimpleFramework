@@ -1,0 +1,22 @@
+ManifestFileVersion: 0
+CRC: 823271040
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: assets.scenes.battle.capsule.prefab.ab
+      Dependencies: {}
+    Info_1:
+      Name: assets.scenes.battle.sphere.prefab.ab
+      Dependencies: {}
+    Info_2:
+      Name: assets.scenes.home.cube.prefab.ab
+      Dependencies: {}
+    Info_3:
+      Name: assets.scenes.sprites.new_sprite_atlas.spriteatlas.ab
+      Dependencies: {}
+    Info_4:
+      Name: assets.scenes.textures.basebosrd.png.ab
+      Dependencies: {}
+    Info_5:
+      Name: assets.scenes.textures.full.png.ab
+      Dependencies: {}
