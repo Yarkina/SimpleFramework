@@ -327,7 +327,8 @@ namespace AB
         private void Build()
         {
             Save();
-            BuildAssetBundles();
+            BuildScript.BuildAssetBundles(GetAssetBundleBuildList());
+            BuildMenu.CopyAssetBundlesToStreamingAssets();
         }
 
         void Save()
